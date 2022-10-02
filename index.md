@@ -59,9 +59,9 @@ _And many more_
 
 Some of the tasks that I have on my mind are :
 
-- [] Learn Javascript
+- [ ] Learn Javascript
 - [x] Learn more about AGILE development and SCRUMS
-- [] Complete data pipeline for a project
+- [ ] Complete data pipeline for a project
 
 Link to the technologies used : [Link](#technologies)
 
