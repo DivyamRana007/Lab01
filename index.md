@@ -15,8 +15,6 @@ Task lists
 
  -->
 
- [Section Link](# About Me)
-
 # About Me
 
 ![alt-text-1](Pictures/IMG_6538%202.jpeg  "Me")
@@ -25,3 +23,16 @@ Hi, I am Divyam Rana. A senior in **_University of California, San Diego_**. I a
 
 # Work Experience
 
+1. Cisco Systems : Business Analyst Intern
+2. AMD : Business Operations Intern
+3. Cisco Systems : Software Engineering Intern
+4. Computer Science Education Research Lab - University of California San Diego
+
+# Technologies Interacted
+
+- Tableau
+- Power BI
+- Splunk
+- Tableau Prep
+- Eloqua
+_And many more_
