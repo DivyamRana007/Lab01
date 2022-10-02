@@ -73,5 +73,5 @@ Link to the technologies used : [Link](#technologies)
 ```
 !pip3 install intelligence
 
-Already Found
+Requirement already satisfied
 ```
