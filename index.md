@@ -17,6 +17,6 @@ Task lists
 
 # About Me
 
-![alt-text-1](Pictures/IMG_6538%202.jpeg "Me")
+![alt-text-1](Pictures/IMG_6538%202.jpeg = 250x "Me")
 
 Hi, I am Divyam Rana. A senior in **_University of California, San Diego_**. I am a Math - CS major with a minor in Data Science. 
