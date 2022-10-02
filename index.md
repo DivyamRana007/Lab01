@@ -23,7 +23,7 @@ Hi, I am Divyam Rana. A senior in **_University of California, San Diego_**. I a
 
 My Personal Website (a bit outdated) : [Link](https://divyamrana.github.io)
 
-> Work Hard, Play Harder
+
 
 # Work Interests
 
@@ -65,3 +65,10 @@ Some of the tasks that I have on my mind are :
 
 Link to the technologies used : [Link](#technologies)
 
+
+# Mantra in Life
+
+> Roses are Red, 
+> Violets are Fine,
+> I would code 
+> From 9 to 9
