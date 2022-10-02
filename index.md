@@ -21,6 +21,8 @@ Task lists
 
 Hi, I am Divyam Rana. A senior in **_University of California, San Diego_**. I am a Math - CS major with a minor in Data Science. 
 
+My Personal Website (a bit outdated) : [Link](https://divyamrana.github.io)
+
 # Work Experience
 
 1. Cisco Systems : Business Analyst Intern
