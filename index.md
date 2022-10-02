@@ -69,3 +69,9 @@ Link to the technologies used : [Link](#technologies)
 # Mantra in Life
 
 > Work Hard, Play Harder
+
+```
+!pip3 install intelligence
+
+Already Found
+```
