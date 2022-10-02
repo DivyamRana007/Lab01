@@ -68,7 +68,10 @@ Link to the technologies used : [Link](#technologies)
 
 # Mantra in Life
 
-> Roses are Red, 
+> Roses are Red,
+
 > Violets are Fine,
+
 > I would code 
+
 > From 9 to 9
