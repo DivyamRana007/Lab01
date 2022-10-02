@@ -19,18 +19,25 @@ Task lists
 
 ![alt-text-1](Pictures/IMG_6538%202.jpeg  "Me")
 
-Hi, I am Divyam Rana. A senior in **_University of California, San Diego_**. I am a Math - CS major with a minor in Data Science. 
+Hi, I am Divyam Rana. A senior in **_University of California, San Diego_**. I am a Math - CS major with a minor in Data Science.
 
 My Personal Website (a bit outdated) : [Link](https://divyamrana.github.io)
 
-# Work Experience
+> Work Hard, Play Harder
 
-1. Cisco Systems : Business Analyst Intern
-2. AMD : Business Operations Intern
-3. Cisco Systems : Software Engineering Intern
-4. Computer Science Education Research Lab - University of California San Diego
+# Work Interests
 
-# Technologies Interacted
+I am interested in roles in the domain of Business Intelligence and Product Management. Some of the roles are :
+
+1. Business Analyst
+2. Financial Analyst
+3. Data Analyst
+4. Product Manager
+_And many more_
+
+# Technologies
+
+Some of the technologies that I have worked with : 
 
 - Tableau
 - Power BI
@@ -38,3 +45,23 @@ My Personal Website (a bit outdated) : [Link](https://divyamrana.github.io)
 - Tableau Prep
 - Eloqua
 _And many more_
+
+# Things I like to do
+
+ Some of the things I like to do in my free time are: 
+
+1. Ride my Bike : [Picture of my bike](Pictures/Jawa-Perak.jpg)
+2. Play Soccer
+3. Gym
+4. Hangout with Friends
+  
+# TODO for me
+
+Some of the tasks that I have on my mind are :
+
+- [] Learn Javascript
+- [x] Learn more about AGILE development and SCRUMS
+- [] Complete data pipeline for a project
+
+Link to the technologies used : [Link](#technologies)
+
