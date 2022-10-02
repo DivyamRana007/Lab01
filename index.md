@@ -14,6 +14,9 @@ Ordered and Unordered Lists
 Task lists
 
  -->
+```
+HELLO WORLD !
+```
 
 # About Me
 
@@ -69,9 +72,3 @@ Link to the technologies used : [Link](#technologies)
 # Mantra in Life
 
 > Work Hard, Play Harder
-
-```
-!pip3 install intelligence
-
-Requirement already satisfied
-```
